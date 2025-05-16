@@ -2,10 +2,6 @@
 > Desenvolvimento de uma aplicação web responsiva de Cartão fidelidade: Member Club.
 Projeto criado durante MBA da Rocketseat em 2024.
 
-![Preview do FIGMA](./docs/figma-cover.png)
-[LINK DO FIGMA](https://www.figma.com/community/file/1380913092616830278)
-
-
 ## Preview da Aplicação  👨‍🎨
 
 ![Member Club Desktop / Mobile](./docs/Cartao-Fidelidade-Member-Club.gif)
